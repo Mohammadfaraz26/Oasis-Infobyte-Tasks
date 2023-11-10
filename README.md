@@ -4,3 +4,4 @@ So, these are the tasks that I have completed.
 
 ## Tasks
 -[Task 1 Iris flower classification](https://github.com/Mohammadfaraz26/Oasis-Infobyte-Tasks/blob/main/Task-1%20Iris%20flower%20classification/Task1.ipynb)
+-[Task 2 Email Spam Detection]()
